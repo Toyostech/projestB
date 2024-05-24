@@ -1,0 +1,33 @@
+li{
+    text-transform: none;
+    text-decoration: none;
+
+}
+ul li{
+    text-decoration: none;
+    text-decoration-line: none;
+    color: rgb(64, 64, 201);
+    
+    
+}
+.menu-box ul{
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 5rem;
+    font-size: 1rem;
+
+
+}
+.bar-menu li{
+    text-decoration: none;
+    text-transform: none;
+    color: red;
+    border: 0.5rem solid black;
+    border-radius: 5rem;
+    padding: 1rem;
+    
+
+
+}
